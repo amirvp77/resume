@@ -10,12 +10,12 @@ export default function Contact() {
                 اگر دوست دارید با من در ارتباط باشید، از راه‌های زیر می‌توانید تماس بگیرید.
             </p>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mt-14 max-w-5xl mx-auto">
+            <div className="w-[600] mt-14 max-w-5xl mx-auto">
 
                 {/* اطلاعات تماس */}
                 <div className="bg-white shadow-xl rounded-3xl p-8">
 
-                    <h2 className="text-2xl font-bold mb-6">
+                    <h2 className="text-2xl text-center font-bold mb-6">
                         اطلاعات تماس
                     </h2>
 
@@ -53,7 +53,7 @@ export default function Contact() {
                 </div>
 
                 {/* فرم تماس */}
-                <div className="bg-white shadow-xl rounded-3xl p-8">
+                {/* <div className="bg-white shadow-xl rounded-3xl p-8">
 
                     <h2 className="text-2xl font-bold mb-6">
                         Send Message
@@ -87,7 +87,7 @@ export default function Contact() {
 
                     </form>
 
-                </div>
+                </div> */}
 
             </div>
 
