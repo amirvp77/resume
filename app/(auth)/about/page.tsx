@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function About() {
     return (
-        <main className="min-h-screen px-6 py-10">
+        <main className="min-h-screen px-6 py-10 ">
 
             {/* پروفایل */}
             
@@ -41,7 +41,7 @@ export default function About() {
                     زیبا، سریع و کاربردی لذت برده‌ام. در حال حاضر روی یادگیری
                     <span className="text-green-600 font-bold">
                         {" "}
-                        HTML، CSS، Tailwind CSS، JavaScript، React و Next.js{" "}
+                        HTML، CSS، Tailwind CSS، JavaScript، API ،React و Next.js{" "}
                     </span>
                     تمرکز کرده‌ام و تلاش می‌کنم با انجام پروژه‌های واقعی، مهارت‌های خودم را
                     هر روز بهتر کنم. هدف من طراحی وب‌سایت‌های مدرن، ریسپانسیو و با تجربه
