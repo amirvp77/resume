@@ -1,58 +1,60 @@
 # 💼 Resume Website
 
-A modern and responsive personal resume website built with Next.js and Tailwind CSS.
+یک وب‌سایت شخصی مدرن و واکنش‌گرا برای نمایش رزومه، مهارت‌ها و اطلاعات تماس که با استفاده از Next.js و Tailwind CSS ساخته شده است.
 
-## 🛠️ Technologies
+## 🛠️ تکنولوژی‌های استفاده‌شده
 
-* Next.js
-* React
-* Tailwind CSS
-* JavaScript
+- Next.js
+- React
+- Tailwind CSS
+- JavaScript
 
-## ✨ Features
+## ✨ امکانات پروژه
 
-* 📱 Responsive design
-* 💻 Desktop and mobile layouts
-* 🎨 Modern and clean UI
-* 🧩 Reusable React components
-* ⚡ Fast and optimized Next.js application
-* 📄 Personal resume sections
-* 🔗 Social and contact links
+- 📱 طراحی واکنش‌گرا برای موبایل و دسکتاپ
+- 💻 نمایش مناسب محتوا در اندازه‌های مختلف صفحه‌نمایش
+- 🎨 رابط کاربری مدرن و ساده
+- 🧩 استفاده از کامپوننت‌های قابل استفاده مجدد در React
+- ⚡ بهره‌گیری از قابلیت‌های Next.js برای ساخت اپلیکیشن سریع
+- 📄 بخش‌های مختلف برای نمایش رزومه شخصی
+- 🔗 لینک شبکه‌های اجتماعی و راه‌های ارتباطی
 
-## 🎯 Project Purpose
+## 🎯 هدف پروژه
 
-This project was created to practice and improve frontend development skills using Next.js, React, and Tailwind CSS while building a professional personal resume website.
+این پروژه با هدف تمرین و تقویت مهارت‌های توسعه فرانت‌اند با استفاده از Next.js، React و Tailwind CSS ساخته شده است.
 
-## 📦 Getting Started
+تمرکز اصلی بر طراحی یک وب‌سایت شخصی حرفه‌ای برای معرفی رزومه، مهارت‌ها و اطلاعات تماس بوده است.
 
-Clone the repository:
+## 📦 راه‌اندازی پروژه
+
+### ۱. دریافت پروژه از گیت‌هاب
 
 ```bash
 git clone https://github.com/amirvp77/resume.git
 ```
 
-Navigate to the project:
+### ۲. ورود به پوشه پروژه
 
 ```bash
 cd resume
 ```
 
-Install dependencies:
+### ۳. نصب وابستگی‌ها
 
 ```bash
 npm install
 ```
 
-Run the development server:
+### ۴. اجرای پروژه
 
 ```bash
 npm run dev
 ```
 
-Open the local development URL shown in the terminal.
+پس از اجرا، آدرس محلی نمایش‌داده‌شده در ترمینال را در مرورگر باز کنید.
 
-## 👨‍💻 Author
+## 👨‍💻 توسعه‌دهنده
 
 **Amir Valipour**
 
-GitHub: [@amirvp77](https://github.com/amirvp77)
+گیت‌هاب: [@amirvp77](https://github.com/amirvp77)
